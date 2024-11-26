@@ -1,7 +1,4 @@
-# portfolio
-Here's a sample **README.md** file template for your GitHub portfolio project. It highlights your skills, projects, and contact information.
 
----
 
 # 🚀 Chirag's Portfolio  
 

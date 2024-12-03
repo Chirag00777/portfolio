@@ -33,4 +33,3 @@ LinkedIn: Your LinkedIn Profile
 GitHub: Your GitHub Profile
 ⭐ Don't forget to star this repository if you find it inspiring! ⭐
 
-Replace placeholders like your-email@example.com and yourusername with your details. Let me know if you need help customizing it further!
